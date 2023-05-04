@@ -78,3 +78,4 @@ After clone project we need to create .env file from .enve.example and open term
 6. php artisan serve
 
 
+We have postman collection: movie-watchlist\POSTMAN\movie-watchlist.postman_collection.json
